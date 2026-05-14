@@ -139,7 +139,6 @@ Check the following
 ### Output:
 
 
-<img width="1920" height="1018" alt="{EDB01B25-59C8-48FE-9F17-D661895EAAE5}" src="https://github.com/user-attachments/assets/4d45e222-c79b-4d08-a2f1-82631caca597" />
 
 
 
