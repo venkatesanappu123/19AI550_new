@@ -157,7 +157,18 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+```
 ### Output:
+
+# Before Training
+
+<img width="519" height="320" alt="img1" src="https://github.com/user-attachments/assets/bab8402e-587b-41f9-8aba-44823555c9cb" />
+
+# After Training
+
+<img width="421" height="292" alt="img2" src="https://github.com/user-attachments/assets/422db835-24d7-40da-b40e-553b36fcd24c" />
+
+
 
 
 
